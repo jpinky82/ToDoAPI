@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Student\Documents\Visual Studio 2022\Projects\11_SPAR1\ToDoAPI\ToDoAPI\ToDoAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2023-04-24T20:46:33.4179171Z;</History>
+    <History>False|2023-05-05T15:18:36.5496885Z;True|2023-04-24T15:46:33.4179171-05:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
